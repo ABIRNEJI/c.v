@@ -1,0 +1,42 @@
+body{
+ 
+
+} 
+table {
+    background-color: rgb(207, 199, 152);
+    width: 100%;
+}
+.ind{
+    width: 100%;
+    text-align: left;
+
+}
+.img1{
+    
+    width: 200px;
+   height: 200px;
+  }
+.t1{
+   
+    text-align: center;
+color: blue;}
+   
+.t2{
+    text-align: center;
+    color: blue;
+    }
+.t3{
+    text-align: center;
+    color: blue;
+  }
+.a{
+margin-left: 200px;
+}
+.t4{
+    margin-right: 50px;
+}
+
+    
+
+
+
